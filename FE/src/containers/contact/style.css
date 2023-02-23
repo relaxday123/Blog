@@ -1,0 +1,11 @@
+.main-content {
+    font-size: 20px;
+    padding: 0px 100px;
+    margin-bottom: 10px;
+}
+
+.info-form {
+    font-size: 15px;
+    max-width: 300px;
+    margin: 100px auto;
+}

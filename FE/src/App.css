@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+  padding: 0;
+}
+
+.header {
+  position: relative;
+}
+
+.navbar {
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.menu {
+  background-color: white;
+  border-radius: 20px;
+  padding: 1.5rem 1.5rem;
+}
+
+.menu .tab {
+  text-decoration: none;
+}

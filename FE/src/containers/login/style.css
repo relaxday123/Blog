@@ -1,0 +1,21 @@
+.form {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.input-group {
+    margin: 50px;
+}
+
+.input-group label {
+    margin: 10px;
+}
+
+.input-group button {
+    size: 20px;
+}
+.login-form {
+    max-width: 300px;
+    padding-top: 100px;
+    margin: 100px auto;
+}
